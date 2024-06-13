@@ -23,7 +23,9 @@ Add the package to your `pubspec.yaml`:
 ```yaml
 dependencies:
   tab_bar_widget: ^0.0.1
+```
 
+## Example
 ```dart
 import 'package:flutter/material.dart';
 import 'package:tab_bar_widget/tab_bar_widget.dart';
@@ -45,7 +47,7 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
-
+```
 
 ## License
 
