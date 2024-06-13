@@ -24,7 +24,7 @@ Add the package to your `pubspec.yaml`:
 dependencies:
   tab_bar_widget: ^0.0.1
 
-```
+```dart
 import 'package:flutter/material.dart';
 import 'package:tab_bar_widget/tab_bar_widget.dart';
 
